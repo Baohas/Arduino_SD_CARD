@@ -34,3 +34,12 @@ void setup(){
   root.ls(LS_R | LS_DATE | LS_SIZE);
 }
 void loop(){}
+
+
+
+
+
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSbzhWTU1uczFZbU9pUXBiYkZXaEd3@185.184.122.202:1080#%F0%9F%9A%80%20Marz%20%28VVERX%29%20%5BShadowsocks%20-%20tcp%5D
+vless://d49b3634-86a5-4a12-bb28-e5956f68496b@185.184.122.202:443?security=reality&type=tcp&headerType=&path=&host=&sni=yandex.ru&fp=chrome&pbk=zA7TLStV_XIJ62KF6Pbz09mds5xl82sk-2dtEEvHtDA&sid=71362594b31dc78a#%F0%9F%9A%80%20Marz%20%28VVERX%29%20%5BVLESS%20-%20tcp%5D
